@@ -13,6 +13,11 @@ asyncio. In the following sections, students will learn how to create multithrea
 applications. Finally, students will learn how to create distributed applications using cluster 
 computing with containers. You can find some supplementary videos for this course on my YouTube channel.
 
+# Wiki
+Some concepts are emphasized in Wiki pages, you can find them in the following link.
+
+[Wiki Pages](https://github.com/canbula/ParallelProgramming/wiki)
+
 # Weekly Content
 You can find the codes that written in the laboratory in the folder WeekXX.
 
@@ -29,6 +34,8 @@ Variable Types and Sequences<br>[![Week02 Homework](https://github.com/canbula/P
 Functions and Decorators<br>[![Week03 Homework](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-03.yml/badge.svg)](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-03.yml)
 
 Coroutines<br>[![Week04 Homework](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-04.yml/badge.svg)](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-04.yml)
+
+Monte Carlo Pi Estimator as a Generator<br>[![Week06 Homework](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-06.yml/badge.svg)](https://github.com/canbula/ParallelProgramming/actions/workflows/python-app-week-06.yml)
 
 # Codes and Videos from Previous Years
 You can change the branch to see the codes from previous years. Also there is a YouTube playlist, 
